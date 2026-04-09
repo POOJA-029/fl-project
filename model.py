@@ -1,4 +1,5 @@
-import tensorflow as tf
+def create_model():
+    return None
 
 def create_model():
     model = tf.keras.Sequential([
